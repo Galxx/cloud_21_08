@@ -1,0 +1,3 @@
+Делал передачу файлов по сети:
+ - Сервер netty, запись файлов черех IO;
+ - Клиент на ObjectDecoderInputStream/ObjectEncoderOutputStream;
